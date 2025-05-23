@@ -51,7 +51,7 @@
   <img src="https://raw.githubusercontent.com/pxdiesel/pxdiesel/output/pacman-contribution-graph.svg" alt="pacman contribution graph">
 </picture>
 
-<img src="https://raw.githubusercontent.com/pxdiesel/pxdiesel/output/snake.svg" alt="Snake animation" />
+![snake](<img src="https://raw.githubusercontent.com/pxdiesel/pxdiesel/output/snake.svg" alt="Snake animation" />)
 
 ---
 
