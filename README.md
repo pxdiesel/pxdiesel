@@ -1,61 +1,8 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding gif" />
 </div>
 
-<h1 align="center">Hi, I'm PX 👋</h1>
-
-<p align="center">
-  💻 Junior Web Developer | 🎓 Informatics Graduate | 🚀 Always Learning & Building
-</p>
-
----
-
-### 👨‍💻 About Me
-
-- 🎓 S1 Teknik Informatika - Universitas Pamulang 
-- 💼 Web Developer
-- 🔧 Currently learning and building web apps with Laravel & JavaScript
-- 🌱 Interested in AI, automation, and educational platforms
-- ✨ Passionate about helping students and small businesses with tech solutions
-
----
-
-### 🔧 Tech Stack
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
-</div>
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pxdiesel&show_icons=true&theme=radical" height="170" />
-  <img src="https://streak-stats.demolab.com?user=pxdiesel&theme=dark&hide_border=false" height="170" />
-</div>
-
----
-
-### 🎮 Contribution Fun
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pxdiesel/pxdiesel/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pxdiesel/pxdiesel/output/pacman-contribution-graph.svg">
-  <img src="https://raw.githubusercontent.com/pxdiesel/pxdiesel/output/pacman-contribution-graph.svg" alt="pacman contribution graph">
-</picture>
-
-![snake](<img src="https://raw.githubusercontent.com/pxdiesel/pxdiesel/output/snake.svg" alt="Snake animation" />)
-
----
-
-### 🌐 Connect with Me
+###
 
 <div align="center">
   <a href="https://facebook.com/pxdiesel" target="_blank">
@@ -66,11 +13,66 @@
   </a>
 </div>
 
----
+###
 
-### ☕ Support
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=pxdiesel.pxdiesel" alt="visitor badge"/>
+</div>
 
-If you like my work or want to collaborate, feel free to reach out or buy me a coffee 😊
+###
 
----
+<h1 align="center">Hey there 👋</h1>
 
+###
+
+<h3 align="left">👨‍💻 About Me</h3>
+
+<p align="left">
+  I'm Udin from Indonesia 🇮🇩<br><br>
+  - 🔭 I’m working as Office Boy at PT. Realta<br>
+  - 💻 Junior Programmer | Laravel & PHP<br>
+  - 🎓 S1 Informatika, Universitas Pamulang (IPK 3.4)<br>
+  - 📚 I'm currently learning Laravel, API, and Web Projects<br>
+  - ⚡ Fun fact: Pernah ngerjain ujian subuh di blankspot area 🤯
+</p>
+
+###
+
+<h3 align="left">🛠 Languages and Tools</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
+</div>
+
+###
+
+<h3 align="left">🔥 My GitHub Stats</h3>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=pxdiesel&theme=dark&hide_border=false&border_radius=5" height="220" />
+</div>
+
+###
+
+<h3 align="left">🎮 Play Pacman with My Contributions</h3>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pxdiesel/pxdiesel/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pxdiesel/pxdiesel/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/pxdiesel/pxdiesel/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<h3 align="left">🐍 Snake Contribution Animation</h3>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pxdiesel/pxdiesel/output/snake.svg" alt="Snake animation" />
+</div>
