@@ -30,10 +30,8 @@
 <p align="left">
   I'm from Indonesia 🇮🇩<br><br>
   - 💻 Junior Programmer | Laravel & PHP<br>
-  - 🎓 S1 Informatika, Universitas Pamulang (IPK 3.4)<br>
+  - 🎓 S1 Informatika, Universitas Pamulang <br>
   - 📚 I'm currently learning Laravel, API, and Web Projects<br>
-  - ⚡ Fun fact: Pernah ngerjain ujian subuh di blankspot area 🤯
-</p>
 
 ###
 
