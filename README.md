@@ -28,8 +28,7 @@
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-  I'm Udin from Indonesia 🇮🇩<br><br>
-  - 🔭 I’m working as Office Boy at PT. Realta<br>
+  I'm from Indonesia 🇮🇩<br><br>
   - 💻 Junior Programmer | Laravel & PHP<br>
   - 🎓 S1 Informatika, Universitas Pamulang (IPK 3.4)<br>
   - 📚 I'm currently learning Laravel, API, and Web Projects<br>
